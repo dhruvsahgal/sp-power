@@ -50,3 +50,4 @@ dist/
 # Misc
 .cache/
 .parcel-cache/
+/backend/.env
